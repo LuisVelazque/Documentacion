@@ -3,6 +3,8 @@ Documentacion
 
 1.Requerimientos:
 
+https://github.com/LuisVelazque/Documentacion/blob/main/1.-Reqierimientos.doc
+
 2.Buyer persona:
 
 3.Publico Objetivo:
